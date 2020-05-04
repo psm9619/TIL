@@ -3,6 +3,9 @@
 [밍피디 Github블로그 만들기 with Hexo](https://mingpd.github.io/2019/04/14/github-blog-with-hexo-1/)<br>
 Hexo Document [in Kor](https://hexo.io/ko/docs/) / [in Eng](https://hexo.io/docs/)<br>
 Videos: [Hexo-Static Site Genearator Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOMJR6D25ishrSedvsguVSm)
+<br>
+* Additional Ref(추가_마크다운 에디터 등)<br>
+[VS Code github style markdown](https://blog.aliencube.org/ko/2016/07/06/markdown-in-visual-studio-code/)
 <br><br>
 
 ### Hexo?
