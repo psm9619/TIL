@@ -63,7 +63,7 @@ $ npm run prod
 '$ hexo server' 
 ```
 <br> If successful, this will give msg like ```Hexo is running at http://localhost:4000```. Copy paste it to browser.
-![hexo_initial_helloworld](markdowns/blogPrep/img/hexo_helloworld.PNG)
+![hexo_initial_helloworld](https://github.com/psm9619/TIL/blob/master/markdowns/blogPrep/img/hexo_helloworld.PNG)
 #### Activate Category, Tags
 Command prompt, at *your blog folder*
 ```
@@ -71,9 +71,9 @@ $ hexo new page "all-categories"
 $ hexo new page "all-tags"
 ```
 - Now there are ```.\source\all-categories\index.md```, ```.\source\all-tags\index.md``` 
-![initial index file of all-categories](.\img\initial_index_categories.PNG)
+![initial index file of all-categories](https://github.com/psm9619/TIL/blob/master/markdowns/blogPrep/img/initial_index_categories.PNG)
 - In each index.md file, add layout: "all-categoreis", layout: "all-tags" respectively. Also remove date, then add comments: falnese to both files
-![fixed index file of all-categories](.\img\fixed_index_categories.PNG)
+![fixed index file of all-categories](https://github.com/psm9619/TIL/blob/master/markdowns/blogPrep/img/fixed_index_categories.PNG)
 #### Options1: Change Sidebar (decreasing width)
 - open ```themes\tranquilpeak\_config.yml```
 - fix sidebar_behavior to 'sidebar_behavior:2'
