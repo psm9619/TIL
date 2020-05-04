@@ -63,7 +63,7 @@ $ npm run prod
 '$ hexo server' 
 ```
 <br> If successful, this will give msg like ```Hexo is running at http://localhost:4000```. Copy paste it to browser.
-![hexo_initial_helloworld](.\img\hexo_helloworld.PNG)
+![hexo_initial_helloworld](markdowns/blogPrep/img/hexo_helloworld.PNG)
 #### Activate Category, Tags
 Command prompt, at *your blog folder*
 ```
