@@ -134,9 +134,11 @@ $ grunt build
 ```
 ### 기타 설정
 - 전체 \_config.yml (not tranquilpeak's config)에서 site 이름, author 등 바꿔줌
-- (Hexo 공식문서)[https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/DOCUMENTATION.md]에 나오는 Hexo configuration 단계들 중 필요한것 실행
 
-### TO DO
+#### (Hexo 공식문서)[https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/DOCUMENTATION.md]에 나오는 Hexo configuration 단계들 중 필요한것 실행
+- algolia search 
+[1](https://elfinlas.github.io/2018/06/07/hexo-usea-lgolia/)
+[2](https://github.com/LouisBarranqueiro/hexo-algoliasearch)
 - [구글 사이트 등록 밑 검색엔진 최적화(SEO)](https://msj0319.github.io/2020/02/14/Hexo-Blog-%EA%B5%AC%EA%B8%80-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%93%B1%EB%A1%9D-%EB%B0%8F-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-%EC%B5%9C%EC%A0%81%ED%99%94-SEO/)
 
 
